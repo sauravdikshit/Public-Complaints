@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_my_complaintes.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/my_complaintes.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_otpcmntxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/otpcmntxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_listxmll.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/listxmll.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_screen1.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/screen1.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_plus.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/ic_plus.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/anim_anim_scale.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/anim/anim_scale.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_complaint_history.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/complaint_history.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_activity_solved.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/activity_solved.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_all_complantess.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/all_complantess.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_prcsngicn.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/prcsngicn.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_icnabt.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/icnabt.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_tpdlgxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/tpdlgxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_arow.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/arow.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_prosessings.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/prosessings.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_prosesscmntlist.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/prosesscmntlist.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_dipbar.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/dipbar.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_splash_screen.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_cmntlistdlg.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/cmntlistdlg.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_allcmplnbk.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/allcmplnbk.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_shwcmntba.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/shwcmntba.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_prosessing.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/prosessing.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_frontclip.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/frontclip.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_edittextbackgroubd.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/edittextbackgroubd.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_psticon.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/psticon.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_screen2.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/screen2.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_listhistxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/listhistxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_regspik.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/regspik.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_cpcmntxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/cpcmntxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_officalogin.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/officalogin.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_cameradlg.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/cameradlg.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_manegementlist.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/manegementlist.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_cmntxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/cmntxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_logicon.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/logicon.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_pracktishimg.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/pracktishimg.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_dlogprosesscmnt.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/dlogprosesscmnt.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_background1.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/background1.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_front_board.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/front_board.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_front_board.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/front_board.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_officalogin.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/officalogin.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/anim_anim_translate.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/anim/anim_translate.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_apctitle.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/apctitle.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_photoicon.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/photoicon.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_aboutbk.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/aboutbk.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_comp_his.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/comp_his.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_mycomplaintes.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/mycomplaintes.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_about.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/about.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_mngwatervmnt.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/mngwatervmnt.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_probissue.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/probissue.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_manegement.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/manegement.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_ftscrbk.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/ftscrbk.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_photopro.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/photopro.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_acpicon.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/acpicon.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_officer_rgester.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/officer_rgester.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_manegement.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/manegement.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_login.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_offlogin.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/offlogin.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_ptn.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/ptn.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_back.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/anim_anim_alpha.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/anim/anim_alpha.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_offsinup.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/offsinup.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_tpcmntxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/tpcmntxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_solvdicnnn.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/solvdicnnn.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_solved.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/solved.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_activity_all_complantess.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/activity_all_complantess.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_splsh.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/splsh.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_usericn.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/usericn.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_epdlgxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/epdlgxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_solvedlist.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/solvedlist.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_abouts.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/abouts.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_baseline_account_circle_black_48.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/baseline_account_circle_black_48.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_complaint_history.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/complaint_history.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_otpdlgxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/otpdlgxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_btnbar.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/btnbar.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_profile.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/profile.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_card.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/card.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/anim_anim_rotate.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/anim/anim_rotate.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_fgh.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/fgh.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_profiles.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/profiles.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_spnirbk.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/spnirbk.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_listdlogsolved.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/listdlogsolved.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_activity_splash_screen.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_frontbackdlg.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/frontbackdlg.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_mngwaterdailog.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/mngwaterdailog.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_issuedilog.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/issuedilog.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_cameradlge.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/cameradlge.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_epcmntxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/epcmntxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_regristration.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/regristration.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_officeregester.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/officeregester.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_dlogsolves.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/dlogsolves.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_spdlgxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/spdlgxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_user.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/user.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_backicon.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/backicon.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_apicnnn.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/apicnnn.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_allcomplaints.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/allcomplaints.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_solved.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/solved.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_swpdlgxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/swpdlgxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_vidicn.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/vidicn.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_activity_comp_his.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/activity_comp_his.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_frontboarddlog.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/frontboarddlog.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/drawable-hdpi_edittextbackgreg.png.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/drawable-hdpi/edittextbackgreg.png"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/menu_all_complaint.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/menu/all_complaint.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_spcmntxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/spcmntxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_cpdlgxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/cpdlgxml.xml"
+    },
+    {
+        "merged": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/build/intermediates/res/merged/debug/layout_swpcmntxml.xml.flat",
+        "source": "/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/res/layout/swpcmntxml.xml"
+    }
+]

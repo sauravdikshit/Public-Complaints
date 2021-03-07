@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:2:1-93:12
+MERGED from [com.android.support:design:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/b1fda67de389e04ed884df1050854e77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/fbb6a06ccb9ed3292474a6412a687d90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bda203fc65a987607049342a71f8f208/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0486cf77fcd7dd499b37688fd053f1eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/5ec49619b2e0a8dcf1738120576d0632/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/046c85bff5c0359d8944c9f4e2e6e518/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/6c78fb5fc055bb94955989cf03fce7f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/fe034170231402a8f87389b693831af1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/28d6f4f1570a93cf9a8c766f50c14758/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/1d1ce7cbf4c83d974395c09d0cdbaa50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/bf6d5cb91707cdfeb83ebb9d09670b81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/302702bd6e4d5acb9c58a49d683dbbe0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a1f123e4e11707f89d8067835467f9c4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/22f8103c3dd4b1dc136ac7e730527f2f/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:2:1-93:12
+	package
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:8:5-86:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bda203fc65a987607049342a71f8f208/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bda203fc65a987607049342a71f8f208/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:12:9-62
+activity#complaints.publiccomplaintss.Login
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:13:9-16:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:14:13-62
+activity#complaints.publiccomplaintss.Regristration
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:17:9-20:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:18:13-70
+activity#complaints.publiccomplaintss.AllComplaint
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:21:9-24:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:22:13-69
+activity#complaints.publiccomplaintss.MyComplaintes
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:25:9-28:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:26:13-70
+activity#complaints.publiccomplaintss.About
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:29:9-32:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:31:13-57
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:30:13-62
+activity#complaints.publiccomplaintss.Profile
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:33:9-36:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:35:13-59
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:34:13-64
+activity#complaints.publiccomplaintss.ComplaintHistory
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:37:9-40:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:38:13-73
+activity#complaints.publiccomplaintss.Prosessing
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:41:9-44:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:43:13-62
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:42:13-67
+activity#complaints.publiccomplaintss.Solved
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:45:9-48:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:47:13-58
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:46:13-63
+activity#complaints.publiccomplaintss.Profiles
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:49:9-52:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:51:13-67
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:50:13-65
+activity#complaints.publiccomplaintss.FrontBoard
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:53:9-58:20
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:55:13-63
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:54:13-67
+activity#complaints.publiccomplaintss.CompHis
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:59:9-62:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:61:13-60
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:60:13-64
+activity#complaints.publiccomplaintss.Officalogin
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:63:9-66:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:65:13-63
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:64:13-68
+activity#complaints.publiccomplaintss.Manegement
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:67:9-70:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:69:13-62
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:68:13-67
+activity#complaints.publiccomplaintss.OfficerRgester
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:71:9-74:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:74:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:73:13-67
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:72:13-71
+activity#complaints.publiccomplaintss.SplashScreen
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:75:9-84:20
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:77:13-45
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:76:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:79:13-83:29
+action#android.intent.action.MAIN
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:80:17-69
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:80:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:82:17-77
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:82:27-74
+uses-permission#android.permission.CAMERA
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:88:5-65
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:88:22-62
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:89:5-69
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:89:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:90:5-81
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:90:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:91:5-80
+	android:name
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml:91:22-77
+uses-sdk
+INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/b1fda67de389e04ed884df1050854e77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/b1fda67de389e04ed884df1050854e77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/fbb6a06ccb9ed3292474a6412a687d90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/fbb6a06ccb9ed3292474a6412a687d90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bda203fc65a987607049342a71f8f208/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bda203fc65a987607049342a71f8f208/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0486cf77fcd7dd499b37688fd053f1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0486cf77fcd7dd499b37688fd053f1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/5ec49619b2e0a8dcf1738120576d0632/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/5ec49619b2e0a8dcf1738120576d0632/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/046c85bff5c0359d8944c9f4e2e6e518/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/046c85bff5c0359d8944c9f4e2e6e518/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/6c78fb5fc055bb94955989cf03fce7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/6c78fb5fc055bb94955989cf03fce7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/fe034170231402a8f87389b693831af1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/fe034170231402a8f87389b693831af1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/28d6f4f1570a93cf9a8c766f50c14758/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/28d6f4f1570a93cf9a8c766f50c14758/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/1d1ce7cbf4c83d974395c09d0cdbaa50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/1d1ce7cbf4c83d974395c09d0cdbaa50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/bf6d5cb91707cdfeb83ebb9d09670b81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/bf6d5cb91707cdfeb83ebb9d09670b81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/302702bd6e4d5acb9c58a49d683dbbe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/302702bd6e4d5acb9c58a49d683dbbe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a1f123e4e11707f89d8067835467f9c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a1f123e4e11707f89d8067835467f9c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/22f8103c3dd4b1dc136ac7e730527f2f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/sauravdikshit/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/22f8103c3dd4b1dc136ac7e730527f2f/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauravdikshit/Downloads/PublicComplaintss/app/src/main/AndroidManifest.xml

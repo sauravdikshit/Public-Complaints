@@ -1,0 +1,179 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="complaints.publiccomplaintss"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:88:5-65
+11-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:88:22-62
+12    <uses-permission android:name="android.permission.CALL_PHONE" />
+12-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:89:5-69
+12-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:89:22-66
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:90:5-81
+13-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:90:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:91:5-80
+14-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:91:22-77
+15
+16    <application
+16-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:8:5-86:19
+17        android:allowBackup="true"
+17-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:9:9-35
+18        android:debuggable="true"
+19        android:icon="@drawable/acpicon"
+19-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:10:9-41
+20        android:label="@string/app_name"
+20-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:11:9-41
+21        android:theme="@android:style/Theme.Holo.NoActionBar" >
+21-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:12:9-62
+22        <activity
+22-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:13:9-16:61
+23            android:name="complaints.publiccomplaintss.Login"
+23-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:14:13-62
+24            android:label="@string/app_name"
+24-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:15:13-45
+25            android:screenOrientation="portrait" />
+25-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:16:13-49
+26        <activity
+26-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:17:9-20:61
+27            android:name="complaints.publiccomplaintss.Regristration"
+27-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:18:13-70
+28            android:label="@string/title_activity_regristration"
+28-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:19:13-65
+29            android:screenOrientation="portrait" />
+29-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:20:13-49
+30        <activity
+30-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:21:9-24:61
+31            android:name="complaints.publiccomplaintss.AllComplaint"
+31-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:22:13-69
+32            android:label="@string/title_activity_all_complaint"
+32-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:23:13-65
+33            android:screenOrientation="portrait" />
+33-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:24:13-49
+34        <activity
+34-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:25:9-28:61
+35            android:name="complaints.publiccomplaintss.MyComplaintes"
+35-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:26:13-70
+36            android:label="@string/title_activity_my_complaintes"
+36-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:27:13-66
+37            android:screenOrientation="portrait" />
+37-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:28:13-49
+38        <activity
+38-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:29:9-32:61
+39            android:name="complaints.publiccomplaintss.About"
+39-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:30:13-62
+40            android:label="@string/title_activity_about"
+40-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:31:13-57
+41            android:screenOrientation="portrait" />
+41-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:32:13-49
+42        <activity
+42-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:33:9-36:61
+43            android:name="complaints.publiccomplaintss.Profile"
+43-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:34:13-64
+44            android:label="@string/title_activity_profile"
+44-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:35:13-59
+45            android:screenOrientation="portrait" />
+45-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:36:13-49
+46        <activity
+46-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:37:9-40:61
+47            android:name="complaints.publiccomplaintss.ComplaintHistory"
+47-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:38:13-73
+48            android:label="@string/title_activity_complaint_history"
+48-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:39:13-69
+49            android:screenOrientation="portrait" />
+49-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:40:13-49
+50        <activity
+50-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:41:9-44:61
+51            android:name="complaints.publiccomplaintss.Prosessing"
+51-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:42:13-67
+52            android:label="@string/title_activity_prosessing"
+52-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:43:13-62
+53            android:screenOrientation="portrait" />
+53-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:44:13-49
+54        <activity
+54-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:45:9-48:61
+55            android:name="complaints.publiccomplaintss.Solved"
+55-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:46:13-63
+56            android:label="@string/title_activity_solved"
+56-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:47:13-58
+57            android:screenOrientation="portrait" />
+57-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:48:13-49
+58        <activity
+58-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:49:9-52:61
+59            android:name="complaints.publiccomplaintss.Profiles"
+59-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:50:13-65
+60            android:label="@string/title_activity_all_complantess"
+60-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:51:13-67
+61            android:screenOrientation="portrait" />
+61-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:52:13-49
+62        <activity
+62-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:53:9-58:20
+63            android:name="complaints.publiccomplaintss.FrontBoard"
+63-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:54:13-67
+64            android:label="@string/title_activity_front_board"
+64-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:55:13-63
+65            android:screenOrientation="portrait" >
+65-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:56:13-49
+66        </activity>
+67        <activity
+67-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:59:9-62:61
+68            android:name="complaints.publiccomplaintss.CompHis"
+68-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:60:13-64
+69            android:label="@string/title_activity_comp_his"
+69-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:61:13-60
+70            android:screenOrientation="portrait" />
+70-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:62:13-49
+71        <activity
+71-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:63:9-66:61
+72            android:name="complaints.publiccomplaintss.Officalogin"
+72-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:64:13-68
+73            android:label="@string/title_activity_officalogin"
+73-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:65:13-63
+74            android:screenOrientation="portrait" />
+74-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:66:13-49
+75        <activity
+75-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:67:9-70:61
+76            android:name="complaints.publiccomplaintss.Manegement"
+76-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:68:13-67
+77            android:label="@string/title_activity_manegement"
+77-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:69:13-62
+78            android:screenOrientation="portrait" />
+78-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:70:13-49
+79        <activity
+79-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:71:9-74:61
+80            android:name="complaints.publiccomplaintss.OfficerRgester"
+80-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:72:13-71
+81            android:label="@string/title_activity_officer_rgester"
+81-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:73:13-67
+82            android:screenOrientation="portrait" />
+82-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:74:13-49
+83        <activity
+83-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:75:9-84:20
+84            android:name="complaints.publiccomplaintss.SplashScreen"
+84-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:76:13-69
+85            android:label="@string/app_name"
+85-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:77:13-45
+86            android:screenOrientation="portrait" >
+86-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:78:13-49
+87            <intent-filter>
+87-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:79:13-83:29
+88                <action android:name="android.intent.action.MAIN" />
+88-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:80:17-69
+88-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:80:25-66
+89
+90                <category android:name="android.intent.category.LAUNCHER" />
+90-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:82:17-77
+90-->/Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:82:27-74
+91            </intent-filter>
+92        </activity>
+93    </application>
+94
+95</manifest>

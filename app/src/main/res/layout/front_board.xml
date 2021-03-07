@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:weightSum="100"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10" >
+        </LinearLayout>
+        
+         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="50" >
+
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="10" >
+             </FrameLayout>
+
+             <ImageView
+                 android:id="@+id/apcic"
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="70"
+                 android:src="@drawable/acpicon" />
+             
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="10" >
+             </FrameLayout>
+             
+             
+
+        </LinearLayout>
+        
+         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4" >
+        </LinearLayout>
+        
+         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="6" >
+             
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="1" >
+             </FrameLayout>
+
+             <TextView
+                 android:id="@+id/loginpage"
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="98"
+                 android:textColor="#15ADFF"
+                 android:background="@android:color/holo_orange_light"
+                 android:gravity="center"
+                 android:textSize="18dp"
+                 android:text="Submit Your Complaint/please click APC icon"
+                 android:textAppearance="?android:attr/textAppearanceSmall" />
+             
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="1" >
+             </FrameLayout>
+
+        </LinearLayout>
+        
+         
+          <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="25" >
+        </LinearLayout>
+         
+          
+           <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4.5" >
+             
+               <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="1" >
+             </FrameLayout>
+
+               <TextView
+                   android:id="@+id/officelog"
+                   android:layout_width="0dp"
+                   android:layout_height="match_parent"
+                   android:layout_weight="98"
+                   android:gravity="center"
+                   android:textColor="#000000"
+                   android:background="@android:color/holo_red_light"
+                   android:text="Only For Official/Users Can't Access this Page"
+                   android:textAppearance="?android:attr/textAppearanceSmall" />
+               
+               <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="1" >
+             </FrameLayout>
+
+        </LinearLayout>
+        
+          <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5" >
+        </LinearLayout>  
+        
+           
+          
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D5ECFE" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:weightSum="100"
+        android:orientation="vertical" >
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+             >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4" >
+            
+            <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_weight="2"
+                 android:layout_height="match_parent" >
+             </FrameLayout>
+
+            
+
+            <ImageView
+                android:id="@+id/offfbacka"
+                android:layout_width="0dp"
+                android:layout_weight="17"
+                android:layout_height="match_parent"
+                android:src="@drawable/back" />
+            
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_weight="78"
+                 android:layout_height="match_parent" >
+             </FrameLayout>
+            
+        </LinearLayout>
+        
+        
+         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="7"
+             >
+
+             <TextView
+                 android:id="@+id/textView5"
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:gravity="center"
+                 android:textSize="25dp"
+                 android:textColor="@android:color/black"
+                 android:textStyle="italic"
+                 android:layout_weight="1"
+                 android:text="Login" />
+         </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+       /> >
+        
+          <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+              android:background="#F3FCFF" >
+             
+               <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_weight="5"
+                 android:layout_height="match_parent" >
+             </FrameLayout>
+             
+             <TextView
+                 android:id="@+id/textView1a"
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="30"
+                 android:text="Phone"
+                 android:textColor="@android:color/black"
+                 android:gravity="center_vertical"
+                 android:textStyle="bold"
+                 android:textAppearance="?android:attr/textAppearanceSmall" />
+             
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_weight="5"
+                 android:layout_height="match_parent" >
+             </FrameLayout>
+
+           
+             <EditText
+                 android:id="@+id/passwordllla"
+                 android:layout_width="0dp"
+                 android:layout_weight="55"
+                 android:layout_height="match_parent"
+                 android:textColor="@android:color/background_dark"
+                 android:gravity="center"
+                 android:paddingLeft="20dp"
+                 android:textCursorDrawable="@android:color/background_dark"
+                 android:background="@drawable/edittextbackgroubd"
+                 android:ems="10"
+                 android:inputType="number" >
+
+                 <requestFocus />
+             </EditText>
+
+            
+             
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_weight="5"
+                 android:layout_height="match_parent" >
+             </FrameLayout>
+        </LinearLayout>
+        
+          <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+              android:background="#F3FCFF"
+             >
+        </LinearLayout>
+        
+           <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+               android:background="#F3FCFF">
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_weight="5"
+                 android:layout_height="match_parent" >
+             </FrameLayout>
+             
+             <TextView
+                 android:id="@+id/offnjha"
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="30"
+                 android:text="Password"
+                 android:textColor="@android:color/black"
+                 android:gravity="center_vertical"
+
+                 android:textStyle="bold"
+                 android:textAppearance="?android:attr/textAppearanceSmall" />
+             
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_weight="5"
+                 android:layout_height="match_parent"
+
+                 >
+             </FrameLayout>
+
+             <EditText
+                 android:id="@+id/offpassa"
+                 android:layout_width="0dp"
+                 android:layout_weight="55"
+                 android:layout_height="match_parent"
+                 android:textColor="@android:color/background_dark"
+
+                 android:gravity="center"
+                 android:paddingLeft="20dp"
+                 android:textCursorDrawable="@android:color/background_dark"
+                 android:background="@drawable/edittextbackgroubd"
+                 android:ems="10"
+                 android:inputType="textPassword" />
+
+             
+
+            
+             
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_weight="5"
+                 android:layout_height="match_parent" >
+             </FrameLayout> 
+        </LinearLayout>
+        
+           
+        
+           <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+               android:background="#F3FCFF" >
+        </LinearLayout>
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+             >
+             
+                 <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_weight="35"
+                 android:layout_height="match_parent" >
+             </FrameLayout>
+
+                <Button
+                    android:id="@+id/offflogina"
+                    android:layout_width="0dp"
+                    android:layout_weight="30" 
+                     android:text="Sign in"
+                    android:layout_height="match_parent"
+                    android:textColor="@android:color/background_dark"
+                    android:background="@drawable/btnbar" />
+                
+                 <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_weight="35"
+                 android:layout_height="match_parent" >
+             </FrameLayout>
+
+        </LinearLayout>
+        
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="34"
+             >
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="8"
+            
+             >
+
+            <TextView
+                android:id="@+id/singupofffca"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Create new acount/Sign up"
+                android:textColor="@android:color/background_light"
+                android:background="@android:color/holo_blue_light"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:2:1-93:12
+MERGED from [com.android.support:design:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/9ae08a6677e225f09e9129156d69b004/design-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/1010ddb1f1cc90375b8acf9bda4fc0ca/appcompat-v7-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/58d41b6160d136949c6b03844314fabe/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/f79d35ad350ba872f2dc1228f0acba74/animated-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/e670de911c54a5341817848a36ee04cd/support-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/95ad29ae56e9a96fca3e67c19aba8903/support-v4-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/f00cfeb486268e61a436c893116de6a7/support-fragment-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/db7c441142b029fc6574b5fd6bbe3d32/support-core-utils-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/d921a69a241e43a1e4b62b57c2dcd6c6/recyclerview-v7-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/142e59ea89aacce76fa1dd1b6e485528/transition-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/3b8b3c53d382656b962308989251027e/support-core-ui-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/21586b593c4d355c25af06df61362c45/support-media-compat-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/830c756fd953e87917788f9ef1b0618d/support-compat-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/d6d16a7c4aed14c1971ceba63cd14a7e/runtime-1.0.3/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:2:1-93:12
+INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:2:1-93:12
+	package
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:8:5-86:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/58d41b6160d136949c6b03844314fabe/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/58d41b6160d136949c6b03844314fabe/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:12:9-62
+activity#complaints.publiccomplaintss.Login
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:13:9-16:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:14:13-62
+activity#complaints.publiccomplaintss.Regristration
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:17:9-20:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:18:13-70
+activity#complaints.publiccomplaintss.AllComplaint
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:21:9-24:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:22:13-69
+activity#complaints.publiccomplaintss.MyComplaintes
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:25:9-28:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:26:13-70
+activity#complaints.publiccomplaintss.About
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:29:9-32:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:31:13-57
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:30:13-62
+activity#complaints.publiccomplaintss.Profile
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:33:9-36:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:35:13-59
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:34:13-64
+activity#complaints.publiccomplaintss.ComplaintHistory
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:37:9-40:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:38:13-73
+activity#complaints.publiccomplaintss.Prosessing
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:41:9-44:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:43:13-62
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:42:13-67
+activity#complaints.publiccomplaintss.Solved
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:45:9-48:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:47:13-58
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:46:13-63
+activity#complaints.publiccomplaintss.Profiles
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:49:9-52:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:51:13-67
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:50:13-65
+activity#complaints.publiccomplaintss.FrontBoard
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:53:9-58:20
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:55:13-63
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:54:13-67
+activity#complaints.publiccomplaintss.CompHis
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:59:9-62:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:61:13-60
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:60:13-64
+activity#complaints.publiccomplaintss.Officalogin
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:63:9-66:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:65:13-63
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:64:13-68
+activity#complaints.publiccomplaintss.Manegement
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:67:9-70:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:69:13-62
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:68:13-67
+activity#complaints.publiccomplaintss.OfficerRgester
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:71:9-74:61
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:74:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:73:13-67
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:72:13-71
+activity#complaints.publiccomplaintss.SplashScreen
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:75:9-84:20
+	android:screenOrientation
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:77:13-45
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:76:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:79:13-83:29
+action#android.intent.action.MAIN
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:80:17-69
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:80:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:82:17-77
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:82:27-74
+uses-permission#android.permission.CAMERA
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:88:5-65
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:88:22-62
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:89:5-69
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:89:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:90:5-81
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:90:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:91:5-80
+	android:name
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml:91:22-77
+uses-sdk
+INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/9ae08a6677e225f09e9129156d69b004/design-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/9ae08a6677e225f09e9129156d69b004/design-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/1010ddb1f1cc90375b8acf9bda4fc0ca/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/1010ddb1f1cc90375b8acf9bda4fc0ca/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/58d41b6160d136949c6b03844314fabe/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/58d41b6160d136949c6b03844314fabe/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/f79d35ad350ba872f2dc1228f0acba74/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/f79d35ad350ba872f2dc1228f0acba74/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/e670de911c54a5341817848a36ee04cd/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/e670de911c54a5341817848a36ee04cd/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/95ad29ae56e9a96fca3e67c19aba8903/support-v4-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/95ad29ae56e9a96fca3e67c19aba8903/support-v4-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/f00cfeb486268e61a436c893116de6a7/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/f00cfeb486268e61a436c893116de6a7/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/db7c441142b029fc6574b5fd6bbe3d32/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/db7c441142b029fc6574b5fd6bbe3d32/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/d921a69a241e43a1e4b62b57c2dcd6c6/recyclerview-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/d921a69a241e43a1e4b62b57c2dcd6c6/recyclerview-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/142e59ea89aacce76fa1dd1b6e485528/transition-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/142e59ea89aacce76fa1dd1b6e485528/transition-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/3b8b3c53d382656b962308989251027e/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/3b8b3c53d382656b962308989251027e/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/21586b593c4d355c25af06df61362c45/support-media-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/21586b593c4d355c25af06df61362c45/support-media-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/830c756fd953e87917788f9ef1b0618d/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/830c756fd953e87917788f9ef1b0618d/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/d6d16a7c4aed14c1971ceba63cd14a7e/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/sauravdikshit/.gradle/caches/transforms-2/files-2.1/d6d16a7c4aed14c1971ceba63cd14a7e/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sauravdikshit/AndroidStudioProjects/PublicComplaints/app/src/main/AndroidManifest.xml

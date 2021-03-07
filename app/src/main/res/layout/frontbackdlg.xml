@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@android:color/background_light">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="100"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+        
+         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="15"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="70" >
+
+            <Button
+                android:id="@+id/frback"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/btnbar"
+                android:textColor="@android:color/background_dark"
+                android:layout_weight="45"
+                android:text="Cancle" />
+            
+            <Button
+                android:id="@+id/frok"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                 android:background="@drawable/btnbar"
+                android:textColor="@android:color/background_dark"
+                android:layout_weight="45"
+                android:text="Quit/Ok" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="15"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

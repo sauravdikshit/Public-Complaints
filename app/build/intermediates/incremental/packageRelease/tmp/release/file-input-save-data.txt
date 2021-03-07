@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Mar 16 05:43:10 IST 2019
+1.base=/Users/sauravdikshit/Downloads/PublicComplaintss/app/build/intermediates/dex/release/mergeDexRelease/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=aboutapc.txt
+0.set=ASSET
+0.base=/Users/sauravdikshit/Downloads/PublicComplaintss/app/build/intermediates/merged_assets/release/mergeReleaseAssets/out
+1.path=classes.dex

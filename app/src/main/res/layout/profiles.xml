@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:weightSum="100"
+        android:orientation="vertical" >
+        
+
+        
+         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+             android:background="#FF6B00"
+            android:layout_weight="6" >
+            
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="1" >
+             </FrameLayout> 
+
+             
+
+             <Button
+                 android:id="@+id/backpro"
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="10"
+                 android:background="@drawable/backicon"
+                  />
+             
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="9" >
+             </FrameLayout>
+             
+             <TextView
+                     android:id="@+id/textView1"
+                     android:layout_width="0dp"
+                     android:layout_height="match_parent"
+                     android:layout_weight="40"
+                     android:text="My Profile"
+                     android:gravity="center"
+                     android:textColor="@android:color/background_light"
+                     android:textStyle="bold"
+                     android:textAppearance="?android:attr/textAppearanceMedium" />
+             
+             <FrameLayout
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:layout_weight="30" >
+
+                 
+
+             </FrameLayout>
+            
+          </LinearLayout>
+          
+         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2" >
+        </LinearLayout>
+        
+        
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="40" >
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="10" >
+            </FrameLayout>
+
+            <ImageView
+                android:id="@+id/imagepro"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="80"
+                android:src="@drawable/photoicon" />
+            
+             <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="10" >
+            </FrameLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5" >
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="6" >
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/idprof"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="25"
+                android:textColor="@android:color/background_dark"
+                android:text="Id :-"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+
+            </FrameLayout>
+            <TextView
+                android:id="@+id/idpro"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:textColor="@android:color/holo_blue_dark"
+                android:layout_weight="60"
+                android:text="........."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+
+            </FrameLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:background="@drawable/card">
+             
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+
+            <TextView
+                android:id="@+id/nameprof"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="25"
+                android:textColor="@android:color/background_dark"
+
+                android:text="Name   :"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+             <TextView
+                android:id="@+id/namepro"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="60"
+                android:textColor="@android:color/background_dark"
+                android:text="___________"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+             
+              <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+            
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:background="@drawable/card">
+              
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+
+            <TextView
+                android:id="@+id/phonprof"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="23"
+                android:textColor="@android:color/background_dark"
+                android:text="Phone   :"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="7" >
+            </FrameLayout>
+            
+             <TextView
+                android:id="@+id/phonpro"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="60"
+                android:textColor="@android:color/background_dark"
+                android:text="___________"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+             
+              <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:background="@drawable/card">
+              
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+
+            <TextView
+                android:id="@+id/sxprof"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="25"
+                android:textColor="@android:color/background_dark"
+                android:text="Gender :"
+                android:textStyle="bold"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+             <TextView
+                android:id="@+id/sxpro"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="60"
+                android:textColor="@android:color/background_dark"
+                android:text="___________"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+             
+              <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:background="@drawable/card">
+              
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+
+            <TextView
+                android:id="@+id/dstprof"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="25"
+                android:text="District :"
+                android:textStyle="bold"
+                android:textColor="@android:color/background_dark"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+             <TextView
+                android:id="@+id/dstpro"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="60"
+                android:textColor="@android:color/background_dark"
+                android:text="___________"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+             
+              <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:background="@drawable/card">
+               <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="25"
+                android:text="State    :"
+                android:textStyle="bold"
+                android:textColor="@android:color/background_dark"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+            
+             <TextView
+
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="60"
+                android:textColor="@android:color/background_dark"
+                android:text="Bihar"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+             
+              <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="5" >
+            </FrameLayout>
+        </LinearLayout>
+        
+        
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="15.5" >
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

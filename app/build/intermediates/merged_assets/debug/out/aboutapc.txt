@@ -1,0 +1,3 @@
+APC (Active Public Complaint) is a Complaint Management Android Application which will be used to throw complaint by the Users .Users can be from any district of Bihar can throw complaint on various issues coming forward in their daily life at their finger touch.
+The complaint thrown by the users can be shown to any authorized user of this application ,this application have a complain post inductor which helps in commenting their facts on the particular issue. This app have a abilty to process the issue in different sections such as solved issues and processing issues.
+OF0011
